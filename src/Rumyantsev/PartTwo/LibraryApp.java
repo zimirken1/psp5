@@ -1,4 +1,4 @@
-package Ermakov.PartTwo;
+package Rumyantsev.PartTwo;
 
 import javax.swing.*;
 import java.awt.*;
